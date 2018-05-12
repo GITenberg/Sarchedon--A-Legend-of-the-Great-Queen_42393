@@ -1,0 +1,39 @@
+_repo: Sarchedon--A-Legend-of-the-Great-Queen_42393
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Waller, S. E. (Samuel Edmund)
+    alias: Waller, Samuel Edmund
+    birthdate: 1850
+    deathdate: 1903
+    gutenberg_agent_id: '44948'
+    url: http://www.gutenberg.org/2009/agents/44948
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Whyte-Melville, G. J. (George John)
+    aliases:
+    - Whyte-Melville, George John
+    - Melville, G. J. Whyte
+    birthdate: 1821
+    deathdate: 1878
+    gutenberg_agent_id: '3832'
+    url: http://www.gutenberg.org/2009/agents/3832
+    wikipedia: http://en.wikipedia.org/wiki/George_Whyte-Melville
+description: ''
+gutenberg_issued: '2013-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42393'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Semiramis, Queen, consort of Shamshi-Adad V, King of Assyria, active 9th
+  century B.C. -- Fiction'
+- !lcc 'PR'
+title: 'Sarchedon: A Legend of the Great Queen'
+url: http://www.gutenberg.org/ebooks/42393
